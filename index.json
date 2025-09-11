@@ -442,6 +442,8 @@
       "Marek",
       "mck",
       "meteor",
+      "meteor65",
+      "meteor75",
       "MGP",
       "MinChan",
       "MM",
@@ -8258,7 +8260,29 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/custom/sudosteve_rates.txt",
+      "fullPath": "presets/custom/meteorpro.txt",
+      "hash": "8800e8e5b809c239d97ee91531859df83563ee441ae0bcaba3ed2466812927bf",
+      "title": "Steve's Meteor 65/75 Pro Settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "keywords": [
+        "rates",
+        "freestyle",
+        "steve",
+        "whoop",
+        "meteor65",
+        "meteor75"
+      ],
+      "author": "Stephen Thomas-Dorin",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/custom/rates.txt",
       "hash": "1337b0adfb7cacb8e39603971cfe2f8cc5d64da691fd40d5de8c001e005f50b0",
       "title": "Steve's rates",
       "firmware_version": [

@@ -1,0 +1,13 @@
+#$ TITLE: Steve's Meteor 65/75 Pro Settings
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: BNF
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: rates, freestyle, steve, whoop, meteor65, meteor75
+#$ AUTHOR: Stephen Thomas-Dorin
+#$ DESCRIPTION: My freestyle rates
+
+#$ INCLUDE: presets/custom/rates.txt
+
+aux 1 1 1 1700 2100 0 0
